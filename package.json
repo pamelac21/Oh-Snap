@@ -1,0 +1,19 @@
+{
+  "name": "oh-snap-",
+  "version": "1.0.0",
+  "description": "(React front-end library, single-page application (SPA).) for a photographer who needs a no-frills site to display photos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamelac21/Oh-Snap-.git"
+  },
+  "author": "Pamela Cleveland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamelac21/Oh-Snap-/issues"
+  },
+  "homepage": "https://github.com/pamelac21/Oh-Snap-#readme"
+}
