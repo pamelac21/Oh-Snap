@@ -83,4 +83,3 @@ describe('onClick events', () => {
     expect(mockSetContactSelected).toHaveBeenCalledTimes(3);
   });
 })
-
