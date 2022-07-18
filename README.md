@@ -4,7 +4,7 @@
 ## Deployed site
 https://pamelac21.github.io/Oh-Snap/
 
-<img src="https://user-images.githubusercontent.com/87335354/179613203-1a0d6318-1ec5-46ac-ae80-2ec573e6301c.jpg" height="1000">
+<img src="https://user-images.githubusercontent.com/87335354/179613203-1a0d6318-1ec5-46ac-ae80-2ec573e6301c.jpg" height="500">
 
 
 ## What You Will Learn
