@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Oh-Snap/static/css/main.90e75332.chunk.css",
-    "main.js": "/Oh-Snap/static/js/main.98209c57.chunk.js",
-    "main.js.map": "/Oh-Snap/static/js/main.98209c57.chunk.js.map",
+    "main.js": "/Oh-Snap/static/js/main.5edd6386.chunk.js",
+    "main.js.map": "/Oh-Snap/static/js/main.5edd6386.chunk.js.map",
     "runtime-main.js": "/Oh-Snap/static/js/runtime-main.8300c342.js",
     "runtime-main.js.map": "/Oh-Snap/static/js/runtime-main.8300c342.js.map",
     "static/js/2.ffe79420.chunk.js": "/Oh-Snap/static/js/2.ffe79420.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.8300c342.js",
     "static/js/2.ffe79420.chunk.js",
     "static/css/main.90e75332.chunk.css",
-    "static/js/main.98209c57.chunk.js"
+    "static/js/main.5edd6386.chunk.js"
   ]
 }
